@@ -1,0 +1,44 @@
+*{
+    margin: 0 0 0 0;
+    padding: auto;
+}
+.container{
+    text-align: center;
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px 50px 0px 50px;
+    padding: 5px 0 20px 0;
+}
+h1{
+    color: #094491;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+li{
+    text-align: left;
+}
+.nav > li{
+    list-style-type: none;
+    font-size: 30px;
+    text-align: center;
+} 
+.nav a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: chocolate;
+    background-color: rgba(125, 147, 243, 0.5);
+    border-radius: 5px;
+}
+
+Header{
+    padding: 10px 50px 15px 50px;
+    background-color: darkblue;
+    margin: auto 0 auto 0; 
+}
+header a{
+    text-decoration: none;
+    color: white;
+}
